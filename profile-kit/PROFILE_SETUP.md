@@ -1,6 +1,6 @@
-# Copy-Paste Profile Setup Kit (Instagram & LinkedIn)
+# Copy-Paste Profile Setup Kit (Instagram, LinkedIn & YouTube)
 
-Ready-to-upload image exports live in `profile-kit/`. Regenerate anytime with `node scripts/gen_social_kit.js`.
+Ready-to-upload image exports live in `profile-kit/`. Regenerate anytime with `node scripts/gen_social_kit.js` inside `toolity-studio`.
 
 ---
 
@@ -51,4 +51,33 @@ Ready-to-upload image exports live in `profile-kit/`. Regenerate anytime with `n
 
   Privacy-first design. Start instantly with no forced signups. Built by Kapil Pidhwani, guarded by Toolie.
   Explore Toolity: https://toolity.in
+  ```
+
+---
+
+## 3. YouTube (`Toolity`)
+
+- **Channel Name**: `Toolity`
+- **Profile Picture**: `profile-kit/toolity-avatar-800.png` (`800 x 800`, Warm Cream `#FFF6EE`, `20%` circular ear-safe margin).
+- **Channel Banner**: `profile-kit/toolity-youtube-banner-2560x1440.png` (`2560 x 1440` TV canvas; all text, pills, and Toolie fit inside YouTube's `1546 x 423` universal Mobile/Desktop safe zone).
+- **Video Watermark**: `profile-kit/toolity-youtube-watermark-150x150.png` (`150 x 150` RGBA transparent rounded badge). Set **Display time** to **`Entire video`** in YouTube Studio (`Customization -> Profile`).
+- **Contact Email**: `hello@toolity.in`
+- **Channel Links**:
+  1. `Open Toolity.in` -> `https://toolity.in/?utm_source=youtube&utm_medium=social&utm_campaign=yt_channel`
+  2. `Instagram` -> `https://instagram.com/toolity.in`
+  3. `LinkedIn` -> `https://www.linkedin.com/company/toolity-in/`
+- **Channel Description (`620/1,000` chars)**:
+  ```text
+  Hi, I'm Toolie, the mascot of Toolity.in.
+
+  Simple, powerful tools for everyday tasks. Watch quick stop-motion Shorts showing faster, calmer fixes for daily file headaches: exam photo KB limits, PDF compression, redaction, signing, .HEIC photos, video compression, Wi-Fi QR cards, and dark-mode Notion widgets.
+
+  Privacy-first design. Start instantly with no forced signups. Many PDF and media utilities run right inside your browser tab so personal files stay on your device.
+
+  Open Toolity.in: https://toolity.in/?utm_source=youtube&utm_medium=social&utm_campaign=yt_channel
+  Contact: hello@toolity.in
+  ```
+- **Channel Keywords (`YouTube Studio -> Settings -> Channel -> Basic info`)**:
+  ```text
+  toolity, toolity.in, everyday web tools, browser utilities, pdf compressor, redact pdf, sign pdf, passport photo maker, heic to jpg, video compressor, notion widgets, privacy first tools, toolie
   ```

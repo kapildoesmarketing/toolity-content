@@ -44,11 +44,16 @@ This public repository stores finalized social media assets for **Toolity.in** (
 
 - **Batch 01 (`Nov 24 to Dec 13, 2026`, `9` PNGs)**: [stories/batch-01/](stories/batch-01/) ([POST_GUIDE.md](stories/batch-01/POST_GUIDE.md))
 - **Batch 02 (`Dec 08 to Dec 31, 2026`, `13` PNGs)**: [stories/batch-02/](stories/batch-02/) ([POST_GUIDE.md](stories/batch-02/POST_GUIDE.md))
-- **Profile Kit (`Avatar`, `LinkedIn Banner`, `3` Highlights)**: [profile-kit/](profile-kit/) ([PROFILE_SETUP.md](profile-kit/PROFILE_SETUP.md))
+- **Profile Kit (`Avatar`, `LinkedIn Banner`, `YouTube Banner`, `YouTube Watermark`, `3` IG Highlights)**: [profile-kit/](profile-kit/) ([PROFILE_SETUP.md](profile-kit/PROFILE_SETUP.md))
 
 <p>
   <img src="profile-kit/toolity-avatar-800.png" width="96" alt="Toolity Avatar" />
+  <img src="profile-kit/toolity-youtube-watermark-150x150.png" width="96" alt="YouTube Watermark" />
   <img src="profile-kit/ig-highlight-meet-toolie.png" width="96" alt="Meet Toolie Highlight" />
   <img src="profile-kit/ig-highlight-humour.png" width="96" alt="Humour Highlight" />
   <img src="profile-kit/ig-highlight-love.png" width="96" alt="Love Highlight" />
+</p>
+
+<p>
+  <img src="profile-kit/toolity-youtube-banner-2560x1440.png" width="520" alt="YouTube Channel Banner (2560x1440)" />
 </p>
