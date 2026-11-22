@@ -1,0 +1,12 @@
+# Keep this public repository strictly finalized outputs only
+raw/
+spec.json
+FLOW_PROMPTS.md
+PRODUCTION_NOTES.md
+ui-pane-left.png
+ui-pane-right.png
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.env
