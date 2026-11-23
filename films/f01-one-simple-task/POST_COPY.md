@@ -5,7 +5,7 @@
 - **Custom Video Thumbnail**: `cover.png` (`1920 x 1080`, zero-text stop-motion Toolie reaction frame, also baked at `t = 0.0s`).
 - **Upload Steps (Personal LinkedIn Profile)**:
   1. Start a new post on your personal LinkedIn profile and upload `toolity-film-01-one-simple-task-1080p.mp4`.
-  2. Click **Edit** on the video preview -> paste the **LinkedIn Video Title** below and attach **`cover.png`** as the custom thumbnail.
+  2. Click **Edit** on the video preview, paste the **LinkedIn Video Title** below, and attach **`cover.png`** as the custom thumbnail.
   3. Paste the **Founder LinkedIn Post Copy** below and publish.
   4. Immediately post the **LinkedIn First Comment** below so the clickable UTM link stays out of the main post body.
 
@@ -13,43 +13,32 @@
 
 ## LinkedIn Video Title (Copy-Paste into Video Settings)
 ```text
-One Simple Task: Why I Built Toolity.in (A 40-Second Papercraft Short)
+One Simple Task: Meet Toolity.in (40-Second Papercraft Short)
 ```
 
-## Founder LinkedIn Post Copy (Option A: Warm Builder Story)
+## Founder LinkedIn Post Copy
 ```text
-Every time I needed to compress one PDF, convert an iPhone photo, or strip hidden metadata, a 10-second job turned into 14 tabs, 3 popups, and a surprise paywall.
+Fixing one tiny file should not take 14 tabs, 3 popups, and a surprise paywall.
 
-So I started building the calm alternative I wished existed: Toolity.in.
+That is why I am building Toolity.in: simple, powerful tools for everyday tasks.
 
-It is a side project I have been pouring weekends and late nights into, guarded by our little papercraft fox mascot, Toolie (who stars in the short film below).
+One calm, privacy-first web toolkit guarded by our mascot, Toolie (starring in the 40-second papercraft short below):
+- PDF & Docs: compress, merge, split, sign, unlock, redact, and align ID cards.
+- Media: exact-KB photo resize, exam and passport photos, HEIC to JPG, AI background removal, video compression, and stickers.
+- Dev & Data: JSON visualizer, diff checker, CSV editor, redirect checker, and QR generator.
+- Notion Widgets & Games: clean dark-mode embeds with zero widget caps, plus quiet offline classics.
 
-The goal is simple: simple, powerful tools for everyday tasks, with zero clutter and no forced signups.
+Most PDF and media tools run right inside your browser tab, so personal files stay on your device.
 
-Here is what you can try on Toolity.in today:
-- PDF & Document tools: compress, merge, split, sign, unlock, permanently redact, and align ID cards cleanly.
-- Media tools: exact-KB image compression, exam and passport photos, HEIC to JPG, AI background removal, video compression, and WhatsApp/Telegram stickers.
-- Dev & Data tools: JSON visualizer, diff checker, CSV editor, redirect checker, and QR code generator.
-- Notion Widgets & Offline Games: clean dark-mode embeds with zero widget caps, plus quiet offline classics for breaks.
+Visit toolity.in (link in the first comment), try one tool, and share your honest feedback: what worked well, what broke, or what Toolity should build next?
 
-Most PDF and media tools run right inside your browser tab, so personal documents and family photos stay on your device.
-
-I would genuinely love your feedback.
-
-Visit toolity.in (link in the first comment), try one tool you normally use, and tell me honestly:
-1. What felt smooth?
-2. What felt confusing or broke?
-3. Which annoying everyday tool should I build next?
-
-Thank you for watching and testing.
-
-#buildinpublic #webtools #productivity #indiehacker
+#Toolity #webtools #productivity #privacyfirst
 ```
 
 ## LinkedIn First Comment (Paste Right After Publishing)
 ```text
-Try Toolity.in directly in your browser (no forced signups):
+Explore Toolity.in directly in your browser (start instantly, no forced signups):
 https://toolity.in/?utm_source=linkedin&utm_medium=founder_post&utm_campaign=toolie_short_film_2026
 
-Drop any bugs, UX notes, or tool requests right here. I read every single reply.
+Share any bugs, UX feedback, or tool requests below. I read every reply.
 ```
