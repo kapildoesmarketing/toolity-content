@@ -1,7 +1,7 @@
 # Founder LinkedIn Post Pack: Film #1 (`One Simple Task`, `16:9`)
 
 ## Files to Upload
-- **Video File**: `toolity-film-01-one-simple-task-1080p.mp4` (`1920 x 1080`, `16:9` widescreen, `~44.3s`, `24 fps`, `48 kHz` stereo AAC, Zero-Speech Cartoon SFX + minimal cinema captions + `4s` Warm Paper end card).
+- **Video File**: `toolity-film-01-one-simple-task-1080p.mp4` (`1920 x 1080`, `16:9` widescreen, `40.3s`, `24 fps`, `48 kHz` stereo AAC, Zero-Speech Cartoon SFX + minimal cinema captions + subtle on-laptop `Toolity.in` reveal in Scene 5).
 - **Custom Video Thumbnail**: `cover.png` (`1920 x 1080`, zero-text stop-motion Toolie reaction frame, also baked at `t = 0.0s`).
 - **Upload Steps (Personal LinkedIn Profile)**:
   1. Start a new post on your personal LinkedIn profile and upload `toolity-film-01-one-simple-task-1080p.mp4`.
@@ -13,7 +13,7 @@
 
 ## LinkedIn Video Title (Copy-Paste into Video Settings)
 ```text
-One Simple Task: Why I Built Toolity.in (A 44-Second Papercraft Short)
+One Simple Task: Why I Built Toolity.in (A 40-Second Papercraft Short)
 ```
 
 ## Founder LinkedIn Post Copy (Option A: Warm Builder Story)

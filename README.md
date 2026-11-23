@@ -64,4 +64,4 @@ This public repository stores finalized social media assets for **Toolity.in** (
 
 | Film | Runtime | Cover | Title | Assets |
 | :---: | :---: | :---: | :--- | :--- |
-| **#1** | `44.4s` | <img src="films/f01-one-simple-task/cover.png" width="180" alt="Film 01 Cover" /> | **One Simple Task (LinkedIn Founder Short)** | [Folder](films/f01-one-simple-task/) / [1080p MP4](films/f01-one-simple-task/toolity-film-01-one-simple-task-1080p.mp4) / [Post Copy](films/f01-one-simple-task/POST_COPY.md) |
+| **#1** | `40.3s` | <img src="films/f01-one-simple-task/cover.png" width="180" alt="Film 01 Cover" /> | **One Simple Task (LinkedIn Founder Short)** | [Folder](films/f01-one-simple-task/) / [1080p MP4](films/f01-one-simple-task/toolity-film-01-one-simple-task-1080p.mp4) / [Post Copy](films/f01-one-simple-task/POST_COPY.md) |
